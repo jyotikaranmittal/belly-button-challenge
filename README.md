@@ -1,4 +1,6 @@
-# belly-button-challenge
+# belly-button-challenge 
+GitHub Url:  https://jyotikaranmittal.github.io/belly-button-challenge/
+
 Create a new repository for this project called belly-button-challenge.
 Clone the new repository to your computer.
 Inside your local git repository, copy the files from in the StarterCode folder contained within the Module 14 Challenge zip file. i.e. index.html, samples.json, and the static folder.
